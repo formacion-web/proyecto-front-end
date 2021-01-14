@@ -53,6 +53,22 @@ Algunos ejemplos:
 - Weather Report: Conectamos a la API de weather.com y obtenemos temperaturas de todo el mundo. Guardamos histórico, realizamos itinerarios por distintos destinos, etc.
 - Travelling Museums: Consultamos fondos de museos.
 
+_APIS de referencia:_
+
+- [Varias APIs](https://any-api.com/)
+- [igdb](https://api-docs.igdb.com/#about)
+- [The Movie Database (TMDb)](https://developers.themoviedb.org/3)
+- [Pixabay](https://pixabay.com/api/docs/)
+- [Pexels](https://www.pexels.com/es-es/api/)
+- [Unsplash](https://unsplash.com/developers)
+- [FoodData Central](https://fdc.nal.usda.gov/api-guide.html)
+- [How Museums Are Using APIs to Inspire Art Lovers Worldwide](https://nordicapis.com/how-museums-are-using-apis-to-inspire-art-lovers-worldwide/)
+- [Open Weather](https://openweathermap.org/api)
+- [Open Libra](https://openlibra.com/es/page/public-api)
+- [ehri online course in holocaust studies EHRI](https://portal.ehri-project.eu/api/v1)
+
+
+
 ## Entrega
 
 - Se tiene que entregar la siguiente documentación:
