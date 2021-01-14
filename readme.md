@@ -26,8 +26,8 @@ Poner en práctica todos los contenidos del curso. Es decir:
   
 ## Requerimientos funcionales:
 
-    - Usuarios únicos se relacionan con la información de la API (votar, favoritos,compartido, editada y almacenada, etc.)
-    - La información relativa al usuario debe conservarse aunque la aplicación se cierre (no es necesario conservarla si la aplicación se desinstala)
+- Usuarios únicos se relacionan con la información de la API (votar, favoritoscompartido, editada y almacenada, etc.)
+- La información relativa al usuario debe conservarse aunque la aplicación secierre (no es necesario conservarla si la aplicación se desinstala)
 
 ## Requerimientos técnicos:
 
