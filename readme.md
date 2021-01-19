@@ -67,7 +67,11 @@ _APIS de referencia:_
 - [Open Libra](https://openlibra.com/es/page/public-api)
 - [ehri online course in holocaust studies EHRI](https://portal.ehri-project.eu/api/v1)
 
-
+## Plantillas
+  - https://csform.com/ionic-3/ionic-3-orange-dark/www/#/home
+  - https://ionic4-blue-light.firebaseapp.com/items/actionSheet
+  - https://ionic4-brkko-theme.firebaseapp.com/items/form
+  - https://ion4fullpwa.firebaseapp.com/
 
 ## Entrega
 
