@@ -6,14 +6,12 @@ Poner en práctica todos los contenidos del curso. Es decir:
 - Construir una aplicación web, responsive que se pueda visualizar de forma correcta en cualquier dispositivo.
 - La aplicación web debe implementar funcionalidades nativas de los dispositivos móviles.
 - La aplicación debe poder compilarse como una aplicación nativa.
-- La aplicación debe conectarse a una API pública para la obtención de datos.
+- La aplicación debe conectarse a una API para leer y persistir la información. [Opcional: conectar a una API pública para obtener información]
 
 ## Requerimientos Generales
 
-- Arranca mostrando un splash screen personalizado. 
-- Contiene un crud del perfil de usuario (imagen incluida)
-- Conecta a una API pública de información:
-    - Obtiene un listado general y detalles en función de parámetros específicos
+- La app debería tener icono y splash screen personalizado. 
+- Contiene un crud de información
 - Incorpora alguna utilidad del móvil: Geoposicionamiento, envío de mail, escáner, etc.
 - Vistas de la aplicación:
     - Splash Screen
@@ -27,19 +25,13 @@ Poner en práctica todos los contenidos del curso. Es decir:
 ## Requerimientos funcionales:
 
 - Usuarios únicos se relacionan con la información de la API (votar, favoritoscompartido, editada y almacenada, etc.)
-- La información relativa al usuario debe conservarse aunque la aplicación secierre (no es necesario conservarla si la aplicación se desinstala)
-
-## Requerimientos técnicos:
-
-La navegación es fluida y no bloqueante. Se muestran spinners de carga (o carga progresiva) 
-- Se estable navegación principal por pestañas o menú
-- La navegación secundaria puede ser gestual (recomendada) o mediante interacción con elementos 
+- La información relativa al usuario debe conservarse aunque la aplicación se cierre (no es necesario conservarla si la aplicación se desinstala)
 
 ## Valoración
 
 Se valorará la aplicación en los siguientes aspectos:
 - Arquitectura de la aplicación, patrones de programación y código Limpio
-- Estilos y animaciones
+- Estilos
 - Originalidad
 
 ### Temas
@@ -82,7 +74,15 @@ _APIS de referencia:_
     - Miembro/miembros del equipo
   - Diseño y Navegación de la aplicación
   - Kanban de Historias de Usuario (se revisará diariamente)
-  - Presentaciones diarias de avance.
   - Repositorio del código (se valorará que se despliegue con a algún sistema de CI)
   - URL del hosting utilizado (firebase, netlify, cdmon, otros)
   - apk de la aplicacion.
+
+## Criterios de Evaluación
+
+- La aplicación se ha entregado de forma adecuada; documentación + código  + app (2pts)
+- La aplicación no tiene errores de funcionamiento (2pts)
+- Se han implementado todas las partes pedidas en el ejercicio (2pts)
+- Estilos (2pts)
+- Originalidad (1 pt)
+- Votación popular(1pt)
